@@ -10,7 +10,7 @@ communities. That shapes what is useful:
 ## Bug reports
 
 I do not use GitHub issues, so please do not open one: it will not be read. Write
-to [jonathan.kaleve@gmail.com](mailto:jonathan.kaleve@gmail.com) instead. A report
+to [admin@kaleve.dev](mailto:admin@kaleve.dev) instead. A report
 that says what you did, what happened, and what you expected is worth more than a
 patch, because it tells me something I could not see from here. Version numbers
 and the platform help. Anything exploitable goes through
