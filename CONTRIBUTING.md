@@ -7,11 +7,14 @@ project has one, that one wins, because it can name its own build.
 These are personal projects, finished and given away rather than run as
 communities. That shapes what is useful:
 
-## Issues are welcome, always
+## Bug reports
 
-A bug report that says what you did, what happened, and what you expected is
-worth more than a patch, because it tells me something I could not see from
-here. Version numbers and the platform help.
+I do not use GitHub issues, so please do not open one: it will not be read. Write
+to [jonathan.kaleve@gmail.com](mailto:jonathan.kaleve@gmail.com) instead. A report
+that says what you did, what happened, and what you expected is worth more than a
+patch, because it tells me something I could not see from here. Version numbers
+and the platform help. Anything exploitable goes through
+[SECURITY.md](SECURITY.md) instead.
 
 ## Pull requests
 

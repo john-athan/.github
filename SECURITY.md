@@ -9,7 +9,8 @@ out to local tools and says so) keeps its own SECURITY.md, and that one wins.
 
 Report privately through GitHub's private vulnerability reporting on the
 repository in question: **Security > Advisories > Report a vulnerability**.
-Please do not open a public issue for something exploitable.
+Please do not open a public issue for something exploitable, and note that
+issues are not read here in any case.
 
 I aim to respond within a few days. These are side projects maintained by one
 person, so I cannot promise a fix window, but I will tell you what I plan to do

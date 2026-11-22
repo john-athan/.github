@@ -3,9 +3,10 @@
 The account-wide defaults for [github.com/john-athan](https://github.com/john-athan).
 
 GitHub falls back to this repository for any repo that lacks its own
-`SECURITY.md`, `CONTRIBUTING.md`, or issue templates. One file here covers every
+`SECURITY.md` or `CONTRIBUTING.md`. There are no issue templates, because issues
+are not used. One file here covers every
 repository at once, which is the point: the alternative is the same file copied
-into eight repos and then drifting apart, which is what happened to the
+into every repo and then drifting apart, which is what happened to the
 provenance gate before `oss-kit` existed.
 
 A project with something specific to say keeps its own file, and that one wins.
